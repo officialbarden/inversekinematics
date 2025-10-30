@@ -1,5 +1,6 @@
 {
     "values": [
-        "ik:global/load"
+        "ik:global/load",
+		"ik.gu:zzz/load"
     ]
 }
